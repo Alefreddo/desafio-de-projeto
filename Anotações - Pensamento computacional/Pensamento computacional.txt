@@ -1,0 +1,7 @@
+O pensamento computacional possui quatro pilares:
+> Decomposição;
+> Reconhecimento de padrões;
+> Abstração;
+> Design de Algoritmos.
+
+
